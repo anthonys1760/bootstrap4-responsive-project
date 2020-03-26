@@ -221,7 +221,28 @@ hr.light-100 {
     display: none;
   }
 
+  .image {
+    display: none;
+  }
 
+  .my-4 {
+    display: none;
+  }
+
+  .padding {
+    padding: 0;
+  }
+
+  [class*="col-"] {
+    padding: 1rem;
+    text-align: center;
+  }
+
+  .welcome {
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 0rem;
+  }
 
 }
 
